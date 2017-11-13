@@ -1,0 +1,9 @@
+#wrapper {
+  min-height: 100vh;
+  background-color: red;
+  padding-bottom: 25px;
+}
+
+.row {
+  margin-top: 25px;
+}
