@@ -4,6 +4,6 @@
   padding-bottom: 25px;
 }
 
-.row {
-  margin-top: 25px;
+.col-md-3, .col-md-9 {
+	margin-top: 25px;
 }
