@@ -1,0 +1,15 @@
+#sidebar {
+	text-align: center;
+}
+
+#sidebar-block {
+	padding: 10px
+}
+
+a {
+	color:inherit;
+}
+
+.fa {
+	margin: 0px 10px 0px 10px;
+}

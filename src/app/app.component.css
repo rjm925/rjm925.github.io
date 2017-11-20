@@ -1,0 +1,9 @@
+#wrapper {
+  min-height: 100vh;
+  background-color: red;
+  padding-bottom: 25px;
+}
+
+.col-md-3, .col-md-9 {
+	margin-top: 25px;
+}
